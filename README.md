@@ -5,11 +5,11 @@ Helpful scripts for building Carbon
 
 QuickStart:
 
-    git clone https://github.com/alwaysadeel/hudson.git -b kk carbon;
+    git clone https://github.com/Matoxxi/hudson.git -b kk carbon;
     cd carbon;
-    repo init -u https://github.com/CarbonDev/android.git -b kk
+    repo init -u https://github.com/CarbonDev/android.git -b kk;
     ./Update.sh;
-    ./CompileROM.sh -s; (Xperia Sola)   
+    ./CompileROM.sh -u; (Xperia U)
 
 Credits:
     
